@@ -9,7 +9,7 @@
 
 ## Overview
 
-`sigilify.nvim` provides a lightweight way to generate symbolic or sigil-like transformations directly inside Neovim.  
+`sigilify.nvim` provides a lightweight way to generate symbolic or sigil-like transformations directly inside Neovim.
 The goal is minimalism: small API, predictable behavior, and no unnecessary dependencies.
 
 
