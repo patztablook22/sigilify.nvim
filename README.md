@@ -34,4 +34,4 @@ The goal is minimalism: small API, predictable behavior, and no unnecessary depe
 
 ## Disclaimer
 
-tbh im vibecoding this
+100% vibecode lol
