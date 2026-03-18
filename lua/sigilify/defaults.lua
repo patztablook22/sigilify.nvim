@@ -124,7 +124,7 @@ M.ft_ts_queries = {
   -- ── Haskell ─────────────────────────────────────────────────────────────
   haskell = {
     -- \ only when starting a lambda expression
-    lambda       = [[ (expression "\\" @sigil) ]],
+    lambda       = [[ (lambda "\\" @sigil) ]],
     -- -> in type signatures and case branches
     r_arrow      = [[ (fun_arrow "->" @sigil) (match_arrow "->" @sigil) ]],
     -- <- in do-notation binds
